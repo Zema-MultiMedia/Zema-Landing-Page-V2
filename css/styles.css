@@ -6,6 +6,7 @@
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
+    text-align: center;
 
     color: #5AAAD2;
 }
@@ -82,11 +83,16 @@ a:hover {
 
 
 .nav--icon {
+    width: 142px;
+    height: 119px;
+    margin-left: 225px;
+    margin-top: 37px;
+    border-radius: 5px;
     /* position: absolute; */
-    width: 200px;
+    /* width: 640px;
     height: 156px;
     left: 0px;
-    top: 20px;
+    top: 0px; */
 
 }
 
@@ -94,82 +100,61 @@ a:hover {
     /* position: absolute; */
     width: 445px;
     height: 48px;
-    left: 73px;
-    top: 213px;
-    
+    margin-left: 73px;
+    margin-top: 50px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
     line-height: 48px;
-    
+
     color: #000000;
+
 }
 
 .header-description {
     /* position: absolute; */
     width: 445px;
     height: 197px;
-    left: 73px;
-    top: 312px;
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 24px;
-    text-align: center;
-
+    margin-left: 73px;
+    margin-top: 50px;
     color: #000000;
-
 
 }
 
 .image-icon {
 
     /* position: absolute; */
-    
     width: 373px;
     height: 373px;
-    right: 400px;
-    left:400px;
-    top: 65px;
+    margin-left: -115px;
+    margin-top: 65px;
 
 }
 
 .rectangle {
     /* position: absolute; */
-    position: relative;
     width: 640px;
-    height: 445px;
+    height: 504px;
     left: 727px;
-    bottom: 492px;
+    top: 0px;
 
     background: linear-gradient(121.81deg, #474747 0%, #000000 100%);
     border-radius: 0px;
 }
 
-ul{
-    list-style: none
+.nav_item {
+    width: 57px;
+    height: 24px;
+    margin-top: 55px;
 }
-
-
-
-#nav{
-    position: relative;
-    left: 300px;
-    bottom: 300px;
-    
-}
-
-
 
 .nav--home {
     /* position: absolute; */
-    width: 57px;
-    height: 24px;
-    left: 1044px;
-    top: 135px;
+
+    /* margin-left: 50px; */
+    /* */
 
     font-family: 'Inter';
     font-style: normal;
@@ -178,61 +163,8 @@ ul{
     line-height: 24px;
     text-align: center;
 
-    color: #FFFFFF;
+    color: yellow;
 
 }
 
-.nav--services {
-    /* position: absolute; */
-    width: 83px;
-    height: 24px;
-    left: 1031px;
-    top: 205px;
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    text-align: center;
-
-    color: #FFFFFF;
-
-}
-
-.nav--about {
-    /* position: absolute; */
-    width: 58px;
-    height: 24px;
-    left: 1042px;
-    top: 275px;
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    text-align: center;
-
-    color: #FFFFFF;
-
-
-}
-
-.nav--contact {
-    /* position: absolute; */
-    width: 77px;
-    height: 24px;
-    left: 1033px;
-    top: 345px;
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    text-align: center;
-
-    color: #FFFFFF;
-
-}
+/*  */
