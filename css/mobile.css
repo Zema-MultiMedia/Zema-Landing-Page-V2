@@ -98,10 +98,6 @@ a:hover {
 
 }
 
-.mobile_nav {
-    display: none;
-}
-
 .header-title {
     /* position: absolute; */
     width: 445px;
@@ -136,7 +132,14 @@ a:hover {
     height: 373px;
     margin-left: -115px;
     margin-top: 65px;
+    display: none;
 
+}
+
+.mobile_nav {
+    width: 100%;
+    height: 30px;
+    visibility: visible;
 }
 
 .rectangle {
@@ -148,6 +151,7 @@ a:hover {
 
     background: linear-gradient(121.81deg, #474747 0%, #000000 100%);
     border-radius: 0px;
+    display: none;
 }
 
 .nav_item {
@@ -288,8 +292,3 @@ a:hover {
 }
 
 /*  */
-/* @media only screen and (max-width: 600px) {
-    body {
-        background-color: lightblue;
-    }
-} */
