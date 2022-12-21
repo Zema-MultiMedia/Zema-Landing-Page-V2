@@ -53,13 +53,13 @@
     border-radius: 0px 40px 40px 0px;
 }
 
-.picture_background{
-width: 812px;
-height: 609px;
-left: -9px;
-top: 2529px;
-background: linear-gradient(121.81deg, #474747 0%, #000000 100%);
-border-radius: 0px 100px 100px 0px;
+.picture_background {
+    width: 812px;
+    height: 609px;
+    left: -9px;
+    top: 2529px;
+    background: linear-gradient(121.81deg, #474747 0%, #000000 100%);
+    border-radius: 0px 100px 100px 0px;
 }
 
 
@@ -223,7 +223,7 @@ a:hover {
     /* margin-bottom: 3.7%; */
     background: linear-gradient(209.05deg, #AAE1F2 13.22%, #EAB1F7 86.67%);
     border-radius: 50px 50px 50px 50px;
-    
+
 }
 
 .arrow {
@@ -308,132 +308,133 @@ a:hover {
 } */
 
 
-.barnding_description1{
-width: 526px;
-height: 194px;
-left: 641px;
-top: 2640px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 24px;
-text-align: center;
-
-color: #FFFFFF;
-margin-top: 110px;
-margin-left: 230px;
-}
-
-.barnding_description2{
+.barnding_description1 {
     width: 526px;
-    height: 210px;
-    left: 634px;
-    top: 2876px;
-    
+    height: 194px;
+    left: 641px;
+    top: 2640px;
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
     text-align: center;
-    
+
+    color: #FFFFFF;
+    margin-top: 110px;
+    margin-left: 230px;
+}
+
+.barnding_description2 {
+    width: 526px;
+    height: 210px;
+    left: 634px;
+    top: 2876px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
     color: #FFFFFF;
     margin-top: 45px;
     margin-left: 230px;
 }
 
 
-.feature{
-    margin-top: 100px; 
-    
+.feature {
+    margin-top: 100px;
+
 }
 
-.feature_title{
-width: 409px;
-height: 122px;
-left: 166px;
-top: 3290px;
+.feature_title {
+    width: 409px;
+    height: 122px;
+    left: 166px;
+    top: 3290px;
 
-font-family: 'Inter';
-font-style: normal;
-font-weight: 600;
-font-size: 22px;
-line-height: 27px;
-text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
 
-color: #5AAAD2;
+    color: #5AAAD2;
 }
 
-.feature_par{
+.feature_par {
     width: 540px;
     height: 210px;
     left: 634px;
     top: 2876px;
-    
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
     text-align: center;
-    
+
     color: #FFFFFF;
-    margin-top:-91px;
+    margin-top: -91px;
 }
 
-.feature_background{
-width: 1602px;
-height: 1602px;
-left: 832px;
-top: 3108px;
+.feature_background {
+    width: 1602px;
+    height: 1602px;
+    left: 832px;
+    top: 3108px;
 
-background: linear-gradient(209.05deg, rgba(170, 225, 242, 0.3) 13.22%, rgba(234, 177, 247, 0.3) 86.67%);
-filter: blur(50px);
-}
-
-
-.breaker{
-    margin-top: 100px; 
-    
+    background: linear-gradient(209.05deg, rgba(170, 225, 242, 0.3) 13.22%, rgba(234, 177, 247, 0.3) 86.67%);
+    filter: blur(50px);
 }
 
 
-.breaker_background{
-width: 1349px;
-height: 369px;
-left: 1329px;
-top: 3850px;
+.breaker {
+    margin-top: 100px;
 
-background: linear-gradient(121.81deg, #474747 0%, #000000 100%);
-border-radius: 0px;
-transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+
+.breaker_background {
+    width: 100%;
+    height: 369px;
+    left: 1329px;
+    top: 3850px;
+
+    background: linear-gradient(121.81deg, #474747 0%, #000000 100%);
+    border-radius: 0px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 
 
 
 
-.breaker_par{
+.breaker_par {
     width: 471px;
     height: 174px;
     left: 673px;
     top: 3968px;
-    
+
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
     text-align: center;
-    
+
     color: #FFFFFF;
     transform: matrix(-1, 0, 0, 1, 0, 0);
-    margin-top: 100px; 
-    margin-left: -500px; 
+    margin-top: 100px;
+    margin-left: -500px;
 }
-.breaker_pic{
-    transform: matrix(-1, 0, 0, 1, 0, 0); 
-    margin-left: 900px; 
-    margin-top:-80px;
+
+.breaker_pic {
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    margin-left: 900px;
+    margin-top: -80px;
 }
