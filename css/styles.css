@@ -1,5 +1,7 @@
 /* services */
 .services_title {
+    width: 125px;
+    height: 24px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -63,7 +65,7 @@
 
 
 .services_content {
-    width: 602px;
+    width: 55%;
     height: 200px;
     font-family: 'Inter';
     font-style: normal;
