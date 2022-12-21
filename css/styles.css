@@ -239,7 +239,7 @@ a:hover {
 /* About */
 .about {
     width: 100%;
-    height: 3580px;
+    height: 100%;
     /* margin-left: -1px;
     margin-top: 1761px; */
 
@@ -353,10 +353,6 @@ a:hover {
 
 .feature_title {
     width: 409px;
-    height: 122px;
-    left: 166px;
-    top: 3290px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -368,10 +364,8 @@ a:hover {
 }
 
 .feature_par {
-    width: 540px;
-    height: 210px;
-    left: 634px;
-    top: 2876px;
+    width: 3px;
+    margin-bottom: 50px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -381,7 +375,6 @@ a:hover {
     text-align: center;
 
     color: #FFFFFF;
-    margin-top: -91px;
 }
 
 .feature_background {
